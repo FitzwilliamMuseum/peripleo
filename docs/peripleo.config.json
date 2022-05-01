@@ -1,5 +1,5 @@
 {
-  "initial_bounds": [-7.9, 49.5, 2.2, 59.4],
+  "initial_bounds": [-20.917969,25.799891,47.988281,66.018018],
   "data": [
     {
       "name": "Places depicted in the paintings", "format": "LINKED_PLACES", "src": "labels.json", "logo": "logos/finds.org.uk.png", "attribution":"Point Data <a href=\"https://fitzmuseum.cam.ac.uk/\" target=\"_blank\">True to Nature</a>"
