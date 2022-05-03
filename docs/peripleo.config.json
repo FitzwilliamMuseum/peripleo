@@ -21,14 +21,14 @@
       ]
     },
     {
-      "name":"artist place of death",
+      "name":"Died",
       "path":[
         "properties",
         "death"
       ]
     },
     {
-      "name":"artist place of birth",
+      "name":"Born",
       "path":[
         "properties",
         "birth"
