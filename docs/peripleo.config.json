@@ -2,13 +2,44 @@
   "initial_bounds": [-20.917969,25.799891,47.988281,66.018018],
   "data": [
     {
-      "name": "Places depicted in the paintings", "format": "LINKED_PLACES", "src": "labels.json", "logo": "logos/finds.org.uk.png", "attribution":"Point Data <a href=\"https://fitzmuseum.cam.ac.uk/\" target=\"_blank\">True to Nature</a>"
+      "name": "Places depicted in the paintings", "format": "LINKED_PLACES", "src": "https://fitzmuseum.cam.ac.uk/visit-us/exhibitions/true-to-nature-open-air-painting-in-europe-1780-1870/geojson.ld", "logo": "logos/finds.org.uk.png", "attribution":"Point Data <a href=\"https://fitzmuseum.cam.ac.uk/\" target=\"_blank\">True to Nature</a>"
     },
     {
       "name": "Artist's place of birth", "format": "LINKED_PLACES", "src": "births.json", "logo": "logos/finds.org.uk.png", "attribution":"Point Data <a href=\"https://fitzmuseum.cam.ac.uk/\" target=\"_blank\">True to Nature</a>"
     },
     {
       "name": "Artist's place of death", "format": "LINKED_PLACES", "src": "deaths.json", "logo": "logos/finds.org.uk.png", "attribution":"Point Data <a href=\"https://fitzmuseum.cam.ac.uk/\" target=\"_blank\">True to Nature</a>"
+    }
+  ],
+  "facets": [
+    "dataset",
+    {
+      "name":"institution",
+      "path":[
+        "properties",
+        "institution"
+      ]
+    },
+    {
+      "name":"Death",
+      "path":[
+        "properties",
+        "death"
+      ]
+    },
+    {
+      "name":"Birth",
+      "path":[
+        "properties",
+        "birth"
+      ]
+    },
+    {
+      "name":"Theme",
+      "path":[
+        "properties",
+        "theme"
+      ]
     }
   ],
   "map_style": "https://api.maptiler.com/maps/cb660f36-d95b-48f0-8028-9be79d7b7064/style.json?key=vPK8CIJYBitDEY4YtzVe",
