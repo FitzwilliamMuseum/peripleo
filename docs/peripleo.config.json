@@ -11,37 +11,6 @@
       "name": "Artist's place of death", "format": "LINKED_PLACES", "src": "deaths.json", "logo": "logos/finds.org.uk.png", "attribution":"Point Data <a href=\"https://fitzmuseum.cam.ac.uk/\" target=\"_blank\">True to Nature</a>"
     }
   ],
-  "facets": [
-    "dataset",
-    {
-      "name":"institution",
-      "path":[
-        "properties",
-        "institution"
-      ]
-    },
-    {
-      "name":"Death",
-      "path":[
-        "properties",
-        "death"
-      ]
-    },
-    {
-      "name":"Birth",
-      "path":[
-        "properties",
-        "birth"
-      ]
-    },
-    {
-      "name":"Theme",
-      "path":[
-        "properties",
-        "theme"
-      ]
-    }
-  ],
   "map_style": "https://api.maptiler.com/maps/cb660f36-d95b-48f0-8028-9be79d7b7064/style.json?key=vPK8CIJYBitDEY4YtzVe",
   "link_icons": {
     "fitzmuseum.cam.ac.uk": "https://fitzmuseum.cam.ac.uk/images/logos/Fitz_logo_white.png"
