@@ -2,7 +2,7 @@
   "initial_bounds": [-20.917969,25.799891,47.988281,66.018018],
   "data": [
     {
-      "name": "Places depicted in the paintings", "format": "LINKED_PLACES", "src": "https://fitzmuseum.cam.ac.uk/visit-us/exhibitions/true-to-nature-open-air-painting-in-europe-1780-1870/geojson.ld", "logo": "logos/finds.org.uk.png", "attribution":"Point Data <a href=\"https://fitzmuseum.cam.ac.uk/\" target=\"_blank\">True to Nature</a>"
+      "name": "Places depicted in the paintings", "format": "LINKED_PLACES", "src": "data/labels.json", "logo": "logos/finds.org.uk.png", "attribution":"Point Data <a href=\"https://fitzmuseum.cam.ac.uk/\" target=\"_blank\">True to Nature</a>"
     },
     {
       "name": "Artist's place of birth", "format": "LINKED_PLACES", "src": "births.json", "logo": "logos/finds.org.uk.png", "attribution":"Point Data <a href=\"https://fitzmuseum.cam.ac.uk/\" target=\"_blank\">True to Nature</a>"
