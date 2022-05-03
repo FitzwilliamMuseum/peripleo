@@ -21,21 +21,21 @@
       ]
     },
     {
-      "name":"Death",
+      "name":"artist place of death",
       "path":[
         "properties",
         "death"
       ]
     },
     {
-      "name":"Birth",
+      "name":"artist place of birth",
       "path":[
         "properties",
         "birth"
       ]
     },
     {
-      "name":"Theme",
+      "name":"Theme in exhibition",
       "path":[
         "properties",
         "theme"
